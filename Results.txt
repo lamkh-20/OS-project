@@ -1,0 +1,5 @@
+The number of  jobs processed 111 Jobs
+
+The number of jobs that have completed their execution normally: 82 Jobs
+
+The number of jobs that have completed their execution abnormally: 29 Jobs
